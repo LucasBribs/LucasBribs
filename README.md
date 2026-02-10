@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Eu sou o Lucas, iniciance em programação e assistência técnica<br><br>- 💾 Cursei Técnico em Desenvolvimento de  Sistemas - ETEC Juscelino Kubitscheck<br>- 📚 Estou em constante aprendizado para aprimorar meus conhecimentos<br>- ⚡ Gosto de por em prática tudo que sei e sempre procuro saber mais</p>
+<p align="left">Eu sou o Lucas, iniciante em programação e assistência técnica<br><br>- 💾 Cursei Técnico em Desenvolvimento de  Sistemas - ETEC Juscelino Kubitscheck<br>- 📚 Estou em constante aprendizado para aprimorar meus conhecimentos<br>- ⚡ Gosto de por em prática tudo que sei e sempre procuro saber mais</p>
 
 ###
 
