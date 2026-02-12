@@ -18,12 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasBribs.LucasBribs&"  />
-</div>
-
-###
-
 <h1 align="center">Eai camarada 👋</h1>
 
 ###
