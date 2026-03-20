@@ -16,13 +16,7 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">Eai camarada 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻 Sobre mim</h3>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
