@@ -16,15 +16,11 @@
   </a>
 </div>
 
-<h3 align="left">Sobre mim</h3>
+<p align="left">Eu sou o Lucas, futuro programador e técnico em montagem e manutenção de computadores.<br><br>- Cursei Técnico em Desenvolvimento de  Sistemas - ETEC Juscelino Kubitscheck<br>- Aprendi sozinho a montar e realizar manutenção em computadores utilizando o meu próprio PC como teste<br>- Todo dia aprendendo algo novo</p>
 
 ###
 
-<p align="left">Eu sou o Lucas, iniciante em programação e assistência técnica<br><br>- 💾 Cursei Técnico em Desenvolvimento de  Sistemas - ETEC Juscelino Kubitscheck<br>- 📚 Estou em constante aprendizado para aprimorar meus conhecimentos<br>- ⚡ Gosto de por em prática tudo que sei e sempre procuro saber mais</p>
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 
 ###
 
@@ -48,11 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   Meu Status :</h3>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LucasBribs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
